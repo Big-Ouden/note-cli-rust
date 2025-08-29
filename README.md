@@ -16,7 +16,6 @@
 `note-cli` is a lightweight command-line tool to manage notes.
 Features include adding, listing, editing, tagging, and searching notes. Notes are stored in JSON format, with automatic ID management and optional tags.
 
----
 
 ## Features
 - Add, remove, and edit notes
@@ -26,7 +25,6 @@ Features include adding, listing, editing, tagging, and searching notes. Notes a
 - Automatic ID reuse for deleted notes
 - Pretty table output for easier reading
 
----
 
 ## 💾 Installation
 1. Clone the repository:
@@ -43,7 +41,6 @@ cargo build --release
 ./target/release/note-cli --help
 ```
 
----
 
 ## ⚙️ Usage
 
@@ -77,7 +74,6 @@ note-cli edit 1 --content "Updated note content"
 note-cli search "keyword" --sort content
 ```
 
----
 
 ## Testing
 ```
@@ -92,14 +88,12 @@ Tests cover:
 - ID recycling
 - Searching and sorting
 
----
 
 ## File Structure
 - `notes.json` — Default storage file for notes
 - `src/` — Source code
 - `Cargo.toml` — Rust project configuration
 
----
 
 ---
 
