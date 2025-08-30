@@ -2,7 +2,7 @@
  * Project: note-cli
  * Description: A minimal command-line note manager in Rust.
  * Author: BigOuden
- * GitHub: https://github.com/Big-Ouden/note-cli
+ * GitHub: https://github.com/Big-Ouden/note-cli-rust
  *
  * Features:
  *  - Add, remove, and edit notes
