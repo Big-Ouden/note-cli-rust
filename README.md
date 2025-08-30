@@ -29,7 +29,7 @@ Features include adding, listing, editing, tagging, and searching notes. Notes a
 ## 💾 Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/note-cli.git
+git clone https://github.com/Big-Ouden/note-cli.git
 cd note-cli
 ```
 2. Build the project:
